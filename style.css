@@ -1,0 +1,15 @@
+footer a {
+    margin: 0 10px;          /* רווח בין האייקונים */
+    font-size: 2em;          /* גודל האייקון */
+    color: #d96666;          /* צבע האייקון */
+    transition: 0.3s;
+  }
+  
+  footer a:hover {
+    color: #b84b4b;          /* שינוי צבע בהעבר העכבר */
+    transform: scale(1.2);   /* קפיצה קלה */
+  }
+  footer a i {
+    font-size: 40px; /* שימי כמה שתרצי */
+    margin: 0 15px;
+  }
